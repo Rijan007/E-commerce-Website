@@ -1,2 +1,1 @@
-# E-commerce-Website
-Dynamic Website of CCTV 
+Java-ecommmerce using java servlet and jsp
